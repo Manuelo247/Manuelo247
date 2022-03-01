@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/manuelo247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuelo247" height="30" width="40" /></a>
-<a href="Manuel8a31@hotmail.com" target="blank"><img align="center" src="http://assets.stickpng.com/images/584856bce0bb315b0f7675ad.png" alt="manuelo247" height="35" width="35" /></a>
-<a href="+526442122144" target="blank"><img align="center" src="http://assets.stickpng.com/images/5a4525f5546ddca7e1fcbc86.png" alt="manuelo247" height="37" width="37" /></a>
+<a href="https://instagram.com/manuelo247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuelo247" height="30" width="40" /></a>
+<a href="Manuel8a31@hotmail.com" target="_blank"><img align="center" src="http://assets.stickpng.com/images/584856bce0bb315b0f7675ad.png" alt="manuelo247" height="35" width="35" /></a>
+<a href="+526442122144" target="_blank"><img align="center" src="http://assets.stickpng.com/images/5a4525f5546ddca7e1fcbc86.png" alt="manuelo247" height="37" width="37" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
