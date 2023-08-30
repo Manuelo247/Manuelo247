@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋 I'm Manuel Ochoa</h1>
-<h3 align="center">A experimented programmer from Mexico, former national olympian at <a href="https://www.olimpiadadeinformatica.org.mx/OMI/OMI/Inicio.aspx">OMI</a></h3>
+<h3 align="center">A experimented programmer from Mexico, former national olympian at <a href="https://www.olimpiadadeinformatica.org.mx/OMI/OMI/Inicio.aspx">OMI</a>
+Robotics and Digital Systems Engineering student with a focus on algorithm development for logical problem‑solving.
+Passionate about technology, I’ve been working on projects involving electronics and programming since high school.
+Enthusiastic about artificial intelligence, having experimented with neural networks and computer vision, but eager to learn even more about it.
+Eager to learn new skills to enhance my engineering abilities, always open to mastering emerging technologies to tackle any challenge that comes
+my way.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
