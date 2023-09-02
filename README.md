@@ -8,7 +8,7 @@ my way.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manuelo247/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="manuelo247" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/manuelo247/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="manuelo247" height="50" width="50"/></a>
 <a href="Manuel8a31@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png" alt="manuelo247" height="40" width="40" /></a>
 <a href="+526442122144" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Combine_de_telephone.png" alt="manuelo247" height="35"  /></a>
 </p>
