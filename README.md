@@ -13,7 +13,7 @@ Robotics and Digital Systems Engineering student specializing in algorithmic pro
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Google Cloud](https://img.shields.io/badge/google_cloud-blue?style=for-the-badge&logo=google%20cloud)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-blue?style=for-the-badge&logo=google%20cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
