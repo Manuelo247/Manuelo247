@@ -2,8 +2,8 @@
 Robotics and Digital Systems Engineering student specializing in algorithmic problem-solving. Tech enthusiast with a track record in electronics and programming since high school. Keen on artificial intelligence, including neural networks and computer vision, and eager to further develop expertise. Committed to continual skill enhancement and mastering emerging technologies for tackling challenges
 
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/manuelo247/)
-[![han@gonzalpi.com](https://shields.io/badge/%F0%9F%93%AC%20han@gonzalpi.com-beige?style=for-the-badge)](mailto:manuel8a31@hotmail.com)
-[![My Résumé](https://shields.io/badge/%F0%9F%93%84%20my%20r%C3%A9sum%C3%A9-gray?&style=for-the-badge)](https://publuu.com/flip-book/242735/575372)
+[![manuel8a31@hotmail.com](https://shields.io/badge/%F0%9F%93%AC%20manuel8a31@hotmail.com-beige?style=for-the-badge)](mailto:manuel8a31@hotmail.com)
+[![CV](https://shields.io/badge/%F0%9F%93%84%20CV-gray?&style=for-the-badge)](https://publuu.com/flip-book/242735/575372)
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
