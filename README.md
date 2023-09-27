@@ -3,7 +3,7 @@ Robotics and Digital Systems Engineering student specializing in algorithmic pro
 
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/manuelo247/)
 [![manuel8a31@hotmail.com](https://shields.io/badge/%F0%9F%93%AC%20manuel8a31@hotmail.com-beige?style=for-the-badge)](mailto:manuel8a31@hotmail.com)
-[![CV](https://shields.io/badge/%F0%9F%93%84%20CV-gray?&style=for-the-badge)](https://publuu.com/flip-book/242735/575372)
+% [![CV](https://shields.io/badge/%F0%9F%93%84%20CV-gray?&style=for-the-badge)](https://publuu.com/flip-book/242735/575372)
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
